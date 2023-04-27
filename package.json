@@ -1,0 +1,26 @@
+{
+  "name": "nginput",
+  "version": "1.0.0",
+  "description": "a material for angular app with veriety of input fields.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lHaamed/NGInput.git"
+  },
+  "keywords": [
+    "angular",
+    "material",
+    "angular",
+    "ng",
+    "material"
+  ],
+  "author": "lHaamed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lHaamed/NGInput/issues"
+  },
+  "homepage": "https://github.com/lHaamed/NGInput#readme"
+}
